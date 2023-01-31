@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    
+    <meta name="viewport" content="width , initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1>
+        <b>LONDON</b>
+        </h1>
+        <p>
+            London is the capital and largest city of England and the United Kingdom, with a population of just under 9 million.[1]<br>
+             It stands on the River Thames in south-east England at the head of a 50-mile (80 km) estuary down to the North Sea,<br>
+              and has been a major settlement for two millennia.</p>
+              <picture>
+                <source media="(min-width:1330px)" srcset="https://a0.muscache.com/im/pictures/93af18b0-6b6c-434a-8cd8-03f798058fff.jpg?im_w=1680" width="900px">
+                <source media="(min-width:1100px)" srcset="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFou_kWNCPww6jc1vmrXTkTnOcrSxVGrTkwg&usqp=CAU" width="800px">
+                <source media="(min-width:900px)" srcset="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzbZ1TGTLNVdGEJkAKpCImCgEkxg4jpyvC4Q&usqp=CAU" width="700px">
+                <source media="(min-width:700px)" srcset="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBuP9z-Bmu3cUNIBai1MfXEh0ff8yO2NV_Sg&usqp=CAU" width="600px">
+                <source media="(min-width:600px)" srcset="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVEXpw6r8533uL7XAi0wrvfTXPWP2Ee9VmVg&usqp=CAU" width="500px">
+                <source media="(min-width:500px)" srcset="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgIMTMDqQthARvk5pi5Bx75Nm-Dzr3_hRQYg&usqp=CAU" width="400px">
+                <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKYHJvV9Zgq5VSbLSuPIRmiQa9BEYe9-slmw&usqp=CAU" width="300px">
+              </picture>         
+</body>
+</html>
